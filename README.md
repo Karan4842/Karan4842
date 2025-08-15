@@ -1,27 +1,18 @@
-Hi, I’m KARAN KUMAR
-am the leader of Team HKSZ
-We are working on the Project Called "ONLINE QUIZ SYSTEM USING JAVA".
-Below is the explained Structure of my Project
+👋 About Me
 
-online-quiz-system
-├── src/
-│   ├── main/
-│   │   ├── java
-│   │   │   ├── com.example.quiz       # Main package
-│   │   │   │   ├── controller         # Controllers
-│   │   │   │   ├── model              # Models for user, quiz, question
-│   │   │   │   ├── repository         # Database interaction
-│   │   │   │   ├── service            # Business logic
-│   │   │   │   └── OnlineQuizSystemApplication.java # Main Application File
-│   │   └── resources                  # Static resources, templates, config
-│   │       ├── application.properties # Database configurations
-│   │       └── static 
-│   └── test                          # Unit tests
-├── README.md                          # Project description and setup
-└── LICENSE                            # License file
+Hi, I’m Karan Kumar
+🎓 B.Tech Student in Computer Science & Engineering
+💡 Passionate about software development, problem solving, and project building
+💻 Skilled in Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+🚀 Experience in building real-world projects such as:
 
-INSTALLATION
-Clone the Repository
-Database Setup
-Configure Database Connection
-Build the Project
+Online Quiz System (Java, Spring Boot, MySQL)
+
+PAN Health Management System (React, SOAP APIs)
+
+Startup World Progress Tracker (React, MySQL)
+
+🌱 Currently learning Advanced Java & API Integration
+📌 Interested in full-stack development and system design
+📫 Reach me at: karan4842kumar@gmail.com
+🔗 GitHub: github.com/Karan4842
